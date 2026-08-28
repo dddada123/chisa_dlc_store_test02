@@ -9,5 +9,16 @@
     "sha256": "70a313235ba2a0a11a627df5d5e620f2d6a8c3469a886234b76400930f0edb8d",
     "cover_ext": "jpg",
     "update_time": "2026-08-28"
+  },
+  {
+    "id": "fd7777",
+    "cat": "fd",
+    "title": "【食品】7777",
+    "author": "7777",
+    "size": "14.8MB",
+    "desc": "测试7777",
+    "sha256": "8d20dade9a70a9480262272a31508562fc172e5b4a67621e17135852deb11ea8",
+    "cover_ext": "jpg",
+    "update_time": "2026-08-28"
   }
 ]
